@@ -1,3 +1,10 @@
 body {
-    font-family: "Montserrat", sans-serif;
+    font-family: "Quicksand", sans-serif;
+}
+#header {
+    background-image: url('../img/header_background.jpeg');
+    width: auto;
+    height: auto;
+    color: white;
+    font-family: "Quicksand", sans-serif;
 }
